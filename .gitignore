@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Poetry
+poetry.lock
+
+# 環境変数・認証鍵など
+.env
+gcp-key.json
+
+# VSCode等のIDE設定
+.vscode/
+
+# macOS系
+.DS_Store
